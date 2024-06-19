@@ -51,11 +51,11 @@ The app uses various icons for companies and a profile image
 ![twitter](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/e0b39ba4-7c19-41ba-ab9b-47570be01169)
 ![spotify](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/cb569c9e-aa26-4533-bb61-7ee54cafdfcd)
 ![splash](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/5d9ffd73-4d12-45a7-92a5-7ea08f44b49e)
-![profile](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/927d2ed0-6ad5-4456-b76b-ba2b044a1112)
 ![netflix](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/796f94cb-bc75-4eb8-87c8-3a1b784094d2)
 ![microsoft](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/b5e65558-d2f2-4def-abe9-bf6eedfb1ba5)
 ![icon](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/5608b0f4-2e9a-4fc0-be1e-bf1c8b2fad32)
 ![google](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/c05c41ad-187d-4a0a-a25b-1e5ecb66ee79)
+![profile](https://github.com/davidkandaaaa/rn-assignment4-11038463/assets/149037120/09c56ecc-11ac-43c2-8006-cd0417b049a5)
 
 
 Conclusion
